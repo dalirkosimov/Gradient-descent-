@@ -7,3 +7,6 @@ Random, linear data was generated, and stochastic and batch methods were used to
 
 Link: https://www.youtube.com/watch?v=fxX9f4FplQg&t=186s
 
+## Air gap data
+
+I used the linear data methods to some Hyperlink data (Hyperlink is an enigneering society I'm part of). I applied gradient of descent to find the local minima of our "air gap" data, but we don't have enough of said data to reach any viable conclusion, it just ouputs a bunch of gibberish. 
